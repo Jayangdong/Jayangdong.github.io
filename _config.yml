@@ -90,8 +90,8 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: "Jayangdong"
+  name: 
   picture:
   email:
   twitter:
